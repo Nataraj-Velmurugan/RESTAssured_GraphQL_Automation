@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-21T15:13:09 IST" name="Default suite" finished-at="2021-11-21T15:13:11 IST" duration-ms="1897">
+    <groups>
+    </groups>
+    <test started-at="2021-11-21T15:13:09 IST" name="Default test" finished-at="2021-11-21T15:13:11 IST" duration-ms="1897">
+      <class name="com.graphql.test.AllFilms">
+        <test-method signature="getAllFilms()[pri:0, instance:com.graphql.test.AllFilms@4f209819]" started-at="2021-11-21T15:13:09 IST" name="getAllFilms" finished-at="2021-11-21T15:13:11 IST" duration-ms="1873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllFilms -->
+      </class> <!-- com.graphql.test.AllFilms -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
