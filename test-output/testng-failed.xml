@@ -5,7 +5,7 @@
     <classes>
       <class name="com.graphql.test.AllFilms">
         <methods>
-          <include name="getAllFilms"/>
+          <include name="getUserData"/>
         </methods>
       </class> <!-- com.graphql.test.AllFilms -->
     </classes>
