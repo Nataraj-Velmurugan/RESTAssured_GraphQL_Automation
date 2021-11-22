@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-21T15:37:10 IST" name="Default suite" finished-at="2021-11-21T15:37:12 IST" duration-ms="2124">
+  <suite started-at="2021-11-22T11:27:55 IST" name="Default suite" finished-at="2021-11-22T11:27:57 IST" duration-ms="2174">
     <groups>
     </groups>
-    <test started-at="2021-11-21T15:37:10 IST" name="Default test" finished-at="2021-11-21T15:37:12 IST" duration-ms="2124">
+    <test started-at="2021-11-22T11:27:55 IST" name="Default test" finished-at="2021-11-22T11:27:57 IST" duration-ms="2174">
       <class name="com.graphql.test.AllFilms">
-        <test-method signature="getUserData()[pri:0, instance:com.graphql.test.AllFilms@31c88ec8]" started-at="2021-11-21T15:37:10 IST" name="getUserData" finished-at="2021-11-21T15:37:12 IST" duration-ms="2099" status="PASS">
+        <test-method signature="getUserDataWithPOJO()[pri:0, instance:com.graphql.test.AllFilms@2ef3eef9]" started-at="2021-11-22T11:27:55 IST" name="getUserDataWithPOJO" finished-at="2021-11-22T11:27:57 IST" duration-ms="2149" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getUserData -->
+        </test-method> <!-- getUserDataWithPOJO -->
       </class> <!-- com.graphql.test.AllFilms -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
